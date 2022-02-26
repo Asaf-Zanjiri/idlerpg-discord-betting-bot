@@ -24,4 +24,5 @@ To nuke spam messages made by the bot type: `>purge X` Can't delete more than 10
 
 
 I don't have a screenshot of the bot console, but I took a screenshot of the bot in action - I only wrote `>flipbot start` and the bot typed the rest:
+
 ![Screenshot_1](https://user-images.githubusercontent.com/60044819/155860000-ce10d072-0a8e-4d64-8579-b9d79c6a75ae.png)
